@@ -1,8 +1,8 @@
-class BallerinaTools < Formula
+class Ballerina < Formula
   desc "Complete Ballerina Tools package (runtime + visual composer)"
   homepage "https://ballerinalang.org/"
-  url "https://ballerinalang.org/downloads/ballerina-tools/ballerina-tools-0.964.0.zip"
-  sha256 "0ea872b63807e7e59105a353e9f7b571d8321526e3defe6a1773dc44fb6c0c7c"
+  url "https://product-dist.ballerina.io/downloads/0.970.1/ballerina-platform-0.970.1.zip"
+  sha256 "cc54f6de6db7df86e9c28c54981fbbd5352a5806e0fcc29892326c846373ab33"
 
   bottle :unneeded
 
